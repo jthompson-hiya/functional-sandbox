@@ -7,6 +7,7 @@ import scala.concurrent.ExecutionContext
 import scala.concurrent.Promise
 import scala.concurrent.Await
 import scala.concurrent.duration._
+import scala.concurrent.Awaitable
 
 object LoggingFutureSupport {
 
